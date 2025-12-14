@@ -159,6 +159,7 @@ footer{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .content h1{
@@ -168,6 +169,7 @@ footer{
 .content, p{
   font-size: 20px;
 }
+
 
 
 
